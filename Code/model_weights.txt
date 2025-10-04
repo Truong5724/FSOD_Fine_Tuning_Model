@@ -1,5 +1,5 @@
-- Faster R-CNN Base Model Weights (Pretrained):
+- Faster R-CNN Base Model Weights (Pretrained) - fasterrcnn_base_finetuned.pth:
 https://1drv.ms/u/c/9b0ae44f360c0072/EVimdHc4YydHqGTWpd-GM98BHppVTUPa7VoLYWj7pSeDow?e=Ru52ng
 
-- Faster R-CNN Few-Shot Head Model Weights (After Support Training):
+- Faster R-CNN Few-Shot Head Model Weights (After Support Training) - fasterrcnn_fewshot_head.pth:
 https://1drv.ms/u/c/9b0ae44f360c0072/EU64YYOKhTFJhs6O3TVmCmoBLOLW3R8Bfufn2sQcafJEuw?e=G1aA0K
